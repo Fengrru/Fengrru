@@ -26,6 +26,7 @@ Each paper has its own repository, with the code and the paper together.
 
 | Paper | Repository |
 |-------|------------|
+| **Energy-Basin Continual Learning** — an honest reconstruction and falsification; corrects the creation-rule comparison in dp-proton | [energy-basin-cl](https://github.com/Fengrru/energy-basin-cl) |
 | **Instrument First** — Validated measurement for non-stationary generative audio | [instrument-first](https://github.com/Fengrru/instrument-first) |
 | **Layer-wise Compression Tolerance in VIB Networks** — does compression tolerance vary across network depth? | [predictive-coding-fails](https://github.com/Fengrru/predictive-coding-fails) |
 | **Prediction-Error Gating** — When should a prototype memory grow? (and three ways predictive coding fails) | [prediction-error-gating](https://github.com/Fengrru/prediction-error-gating) |
