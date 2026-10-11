@@ -41,8 +41,8 @@ Each paper has its own repository, with the code and the paper together.
 | Paper | Repository |
 |-------|------------|
 | **Instrument First** — Validated measurement for non-stationary generative audio | [instrument-first](https://github.com/Fengrru/instrument-first) |
-| **Three Ways Predictive Coding Fails** — Layer-wise compression tolerance in VIB networks | [predictive-coding-fails](https://github.com/Fengrru/predictive-coding-fails) |
-| **Prediction-Error Gating** — When should a prototype memory grow? | [prediction-error-gating](https://github.com/Fengrru/prediction-error-gating) |
+| **Layer-wise Compression Tolerance in VIB Networks** — does compression tolerance vary across network depth? | [predictive-coding-fails](https://github.com/Fengrru/predictive-coding-fails) |
+| **Prediction-Error Gating** — When should a prototype memory grow? (and three ways predictive coding fails) | [prediction-error-gating](https://github.com/Fengrru/prediction-error-gating) |
 | **Storage–Compute Separation** — HDP prototypes with sleep consolidation and exact editing | [storage-compute-separation](https://github.com/Fengrru/storage-compute-separation) |
 | **DP-ProtOn** — Dirichlet-process-guided online prototype learning | [dp-proton](https://github.com/Fengrru/dp-proton) |
 | **Sentinel Attention** — Error-gated sparse attention with endogenous OOD signals | [sentinel-attention](https://github.com/Fengrru/sentinel-attention) |
