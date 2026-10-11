@@ -31,7 +31,7 @@ Each paper has its own repository, with the code and the paper together.
 | **Prediction-Error Gating** — When should a prototype memory grow? (and three ways predictive coding fails) | [prediction-error-gating](https://github.com/Fengrru/prediction-error-gating) |
 | **Storage–Compute Separation** — HDP prototypes with sleep consolidation and exact editing | [storage-compute-separation](https://github.com/Fengrru/storage-compute-separation) |
 | **DP-ProtOn** — Dirichlet-process-guided online prototype learning | [dp-proton](https://github.com/Fengrru/dp-proton) |
-| **Sentinel Attention** — Error-gated sparse attention with endogenous OOD signals | [sentinel-attention](https://github.com/Fengrru/sentinel-attention) |
+| **Sentinel Attention** — Error-gated sparse attention with endogenous OOD signals | [pwpf](https://github.com/Fengrru/pwpf) |
 | **Honest Code** — Attention is not enough: benchmarking hallucination detection for code LLMs | [repograph-honest](https://github.com/Fengrru/repograph-honest) |
 | **When Physics Fails to Think** — A negative result on Port-Hamiltonian dynamics | [negative-result](https://github.com/Fengrru/negative-result) |
 | **Probing Timbre Space** — Gate experiments for inverse synthesizer patch synthesis | [timbreprobe](https://github.com/Fengrru/timbreprobe) |
