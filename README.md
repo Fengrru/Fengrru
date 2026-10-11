@@ -11,39 +11,12 @@ Hi! I'm Feng Yuhan, some people call me Fengrru. I'm almost 18, haven't formed a
 </tr>
 </table>
 
-### Hi, I'm Feng Yuhan
-
-**冯宇涵** · high-school student in Zhuzhou, China · AI research
-
-I build things, get most of them wrong, and write down what the wrongness taught me. Most of my work is about **continual learning** and **measurement** — how to tell whether a change in a model is real, instead of just reproducible.
-
-I care about a specific failure mode: a result that repeats perfectly and is completely wrong. Several of the papers below exist because I hit it.
-
-<br>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Current focus**
-
-- Continual learning for non-stationary generative audio
-- Building the measurement apparatus *before* running the experiment
-- Pre-registered protocols and negative results
-
-</td>
-<td valign="top" width="50%">
-
 **Find me**
 
 - Writing: [**Fengrru/notes**](https://github.com/Fengrru/notes)
 - X: [@YuhanFeng1005](https://x.com/YuhanFeng1005)
 - Email: fengru1005@gmail.com
 - Anonymous feedback: [admonymous](https://www.admonymous.co/yuhan-feng)
-
-</td>
-</tr>
-</table>
 
 ---
 
