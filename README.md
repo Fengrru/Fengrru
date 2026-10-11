@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="intro.png" width="880" alt="A portrait in a rough orange frame beside a green speech bubble: Hi! I'm Feng Yuhan, some people call me Fengrru. I'm almost 18, haven't formed a band, haven't piloted an EVA, haven't found a Death Note, haven't activated Sharingan, haven't obtained a Soul Gem, haven't found a magic book, haven't encountered abnormalities, haven't become a ghoul, haven't obtained a Vision, haven't caught any Pokémon, haven't signed a contract to save the world, haven't joined the Demon Slayer Corps, haven't gained a Stand, haven't met a summoner for an epic otherworldly journey... ah, I can't ignore Earth's future!!!">
+</p>
+
 ### Hi, I'm Feng Yuhan
 
 **冯宇涵** · high-school student in Zhuzhou, China · AI research
