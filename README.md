@@ -13,6 +13,7 @@ Hi! I'm Feng Yuhan, some people call me Fengrru. I'm almost 18, haven't formed a
 
 **Find me**
 
+- Website: [fengrru.me](https://fengrru.me) — no longer updated; kept as an archive.
 - Writing: [**Fengrru/notes**](https://github.com/Fengrru/notes)
 - X: [@YuhanFeng1005](https://x.com/YuhanFeng1005)
 - Email: fengru1005@gmail.com
