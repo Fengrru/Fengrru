@@ -28,12 +28,14 @@ Each paper has its own repository, with the code and the paper together.
 |-------|------------|
 | **Energy-Basin Continual Learning** — an honest reconstruction and falsification; corrects the creation-rule comparison in dp-proton | [energy-basin-cl](https://github.com/Fengrru/energy-basin-cl) |
 | **Instrument First** — Validated measurement for non-stationary generative audio | [instrument-first](https://github.com/Fengrru/instrument-first) |
-| **Layer-wise Compression Tolerance in VIB Networks** — does compression tolerance vary across network depth? | [predictive-coding-fails](https://github.com/Fengrru/predictive-coding-fails) |
+| **Layer-wise Compression Tolerance in VIB Networks** — does compression tolerance vary across network depth? | [vib-layerwise-tolerance](https://github.com/Fengrru/vib-layerwise-tolerance) |
 | **Prediction-Error Gating** — When should a prototype memory grow? (and three ways predictive coding fails) | [prediction-error-gating](https://github.com/Fengrru/prediction-error-gating) |
 | **Storage–Compute Separation** — HDP prototypes with sleep consolidation and exact editing | [storage-compute-separation](https://github.com/Fengrru/storage-compute-separation) |
 | **DP-ProtOn** — Dirichlet-process-guided online prototype learning | [dp-proton](https://github.com/Fengrru/dp-proton) |
-| **Sentinel Attention** — Error-gated sparse attention with endogenous OOD signals | [pwpf](https://github.com/Fengrru/pwpf) |
+| **Sentinel Attention** — Error-gated sparse attention with endogenous OOD signals | [sentinel-attention](https://github.com/Fengrru/sentinel-attention) |
+| **What Should a Fourth Attention Vector Encode?** — Structured relational contexts for higher-order attention | [fourth-attention-vector](https://github.com/Fengrru/fourth-attention-vector) |
 | **Honest Code** — Attention is not enough: benchmarking hallucination detection for code LLMs | [repograph-honest](https://github.com/Fengrru/repograph-honest) |
+| **Selective Belief Propagation** — Efficient truth maintenance for LLM-agent memory | [ntm-bp](https://github.com/Fengrru/ntm-bp) |
 | **When Physics Fails to Think** — A negative result on Port-Hamiltonian dynamics | [negative-result](https://github.com/Fengrru/negative-result) |
 | **Probing Timbre Space** — Gate experiments for inverse synthesizer patch synthesis | [timbreprobe](https://github.com/Fengrru/timbreprobe) |
 | **Musical Motion** — A preregistered protocol for the continuous perceptual trajectory hypothesis | [mmt](https://github.com/Fengrru/mmt) |
@@ -45,8 +47,9 @@ Each paper has its own repository, with the code and the paper together.
 | Project | Repository |
 |---------|------------|
 | **NeuroLux** — Replacing Minecraft's BFS light propagation with a single-pass 3D CNN | [neuro-lux](https://github.com/Fengrru/neuro-lux) |
-| **Nexus Runtime** — A causally-consistent execution substrate for autonomous agents, in Rust | [nexus-runtime](https://github.com/Fengrru/nexus-runtime) |
-| **HonestCode** — A deterministic AST verifier that catches hallucinated APIs from coding agents | [honestcode](https://github.com/Fengrru/honestcode) |
+| **Dream** — A memory-centric agent: memory is the kernel, everything else is a plugin | [dream](https://github.com/Fengrru/dream) |
+| **HonestCode** — A lightweight MCP server that catches invented APIs in AI-written code | [honestcode](https://github.com/Fengrru/honestcode) |
+| **SuperDSH** — A safety-first reliability suite for DeepSeek Harness | [super-dsh](https://github.com/Fengrru/super-dsh) |
 
 ## Writing
 
